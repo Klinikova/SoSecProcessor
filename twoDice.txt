@@ -1,0 +1,21 @@
+7
+2
+7
+7
+6
+4
+10
+6
+7
+7
+Twos: 2
+Threes: 0
+Fours: 4
+Fives: 0
+Sixs: 12
+Sevens: 35
+Eights: 0
+Nines: 0
+Tens: 10
+Elevens: 0
+Twelves: 0
